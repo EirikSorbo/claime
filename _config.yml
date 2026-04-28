@@ -8,8 +8,8 @@ baseurl: "/claime"
 nav:
   - label: home
     url: /
-  - label: about
-    url: /about/
+  - label: tasks
+    url: /tasks/
   - label: partners
     url: /partners/
 
