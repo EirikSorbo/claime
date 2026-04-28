@@ -216,6 +216,56 @@
     @media (max-width: 480px) {
       .content-card { padding: 20px 16px; }
     }
+    
+    /* TIMELINE */
+    .timeline {
+      position: relative;
+      margin: 24px 0;
+      padding-left: 24px;
+      border-left: 2px solid var(--edge);
+    }
+    
+    .tl-item {
+      position: relative;
+      margin-bottom: 28px;
+    }
+    
+    .tl-item::before {
+      content: '';
+      position: absolute;
+      left: -31px;
+      top: 4px;
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--paper);
+      border: 2px solid var(--accent);
+    }
+    
+    .tl-year {
+      display: block;
+      font-size: 9px;
+      font-weight: 600;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--muted2);
+      margin-bottom: 4px;
+    }
+    
+    .tl-title {
+      display: block;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--ink);
+      margin-bottom: 4px;
+    }
+    
+    .tl-text {
+      display: block;
+      font-size: 13px;
+      line-height: 1.75;
+      color: var(--ink2);
+    }
   </style>
 </head>
 <body>
