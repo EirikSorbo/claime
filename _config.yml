@@ -9,9 +9,9 @@ nav:
   - label: home
     url: /
   - label: about
-    url: /about/
+    url: about.md
   - label: contact
-    url: /contact/
+    url: contact.md
 
 markdown: kramdown
 theme: null
