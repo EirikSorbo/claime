@@ -9,8 +9,8 @@ nav:
     url: /
   - label: tasks
     url: /tasks/
-  - label: partners
-    url: /partners/
+  - label: meetings
+    url: /meetings/
 
 markdown: kramdown
 theme: null
