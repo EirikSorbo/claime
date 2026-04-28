@@ -2,11 +2,13 @@ title: claime
 description: information on the process
 lang: en
 
+baseurl: "/claime"
+
 # Navigasjon – legg til/fjern sider her
 nav:
   - label: home
     url: /
-  - label: bout
+  - label: about
     url: /about/
   - label: contact
     url: /contact/
