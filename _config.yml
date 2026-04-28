@@ -1,0 +1,15 @@
+title: claime
+description: information on the process
+lang: en
+
+# Navigasjon – legg til/fjern sider her
+nav:
+  - label: home
+    url: /
+  - label: bout
+    url: /about/
+  - label: contact
+    url: /contact/
+
+markdown: kramdown
+theme: null
