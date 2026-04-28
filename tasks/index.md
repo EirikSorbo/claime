@@ -1,19 +1,12 @@
 ---
 layout: default
-title: partners
+title: tasks
 ---
 
-# Partners
+# Tasks
 
-## E-post
+## WP leaders
+- Develop the WP descriptions
 
-Send oss gjerne en e-post på **hei@eksempel.no**
-
-## Adresse
-
-Gateveien 1  
-0001 Oslo
-
----
-
-*Vi svarer vanligvis innen 1–2 virkedager.*
+## Institution admin
+- Provide necessary formalities
