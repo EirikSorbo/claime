@@ -33,9 +33,9 @@
 
     /* HEADER */
     .app-header {
-      justify-content: center;  /* legg til denne */
       display: flex;
       align-items: center;
+      justify-content: center;
       padding: 14px 20px 12px;
       background: var(--paper);
       border-bottom: 1px solid var(--edge);
@@ -55,8 +55,8 @@
 
     /* NAV */
     .tab-bar {
-      justify-content: center;  /* legg til denne */
       display: flex;
+      justify-content: center;
       background: var(--paper);
       position: sticky;
       top: 49px;
@@ -222,13 +222,13 @@
 <body>
 
   <header class="app-header">
-    <a class="header-logo" href="/">{{ site.title }}</a>
+    <a class="header-logo" href="{{ site.baseurl }}/">{{ site.title }}</a>
   </header>
 
   <nav class="tab-bar">
     {% for item in site.nav %}
       <a class="tab-btn {% if page.url == item.url %}active{% endif %}"
-         href="{{ item.url }}">{{ item.label }}</a>
+         href="{{ site.baseurl }}{{ item.url }}">{{ item.label }}</a>
     {% endfor %}
   </nav>
 
