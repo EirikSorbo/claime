@@ -1,0 +1,17 @@
+title: RECLAIME 2026
+description: Horizon Heritage-04
+lang: en
+
+baseurl: "/claime"
+
+nav:
+  - label: meetings
+    url: /
+  - label: deadlines
+    url: /meetings/
+  - label: tasks
+    url: /tasks/
+
+
+markdown: kramdown
+theme: null
