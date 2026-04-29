@@ -7,9 +7,9 @@ title: budget
 
   <div class="tl-item">
     <div class="tl-date">JUNE 19</div>
-    <div class="tl-title">Deliver budget template</div>
+    <div class="tl-title">Budget template</div>
     <div class="tl-desc">
-      Deliver the budget template provided
+      Each partner deliver the budget template
       </div>
   </div>
 
