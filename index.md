@@ -2,18 +2,7 @@
 layout: default
 title: meetings
 ---
-
 ## Meetings timeline
-
-<div class="tl-legend">
-  <div class="tl-leg">
-    <div class="tl-leg-dot" style="border-color: #3d5a99;"></div> Consortium meetings
-  </div>
-  <div class="tl-leg">
-    <div class="tl-leg-dot" style="border-color: #c45a5a;"></div> Individual meetings
-  </div>
-</div>
-
 <div class="tl-wrap">
 
   <div class="tl-item">
@@ -43,7 +32,7 @@ title: meetings
   <div class="tl-item">
     <div class="tl-date">August 25</div>
     <div class="tl-time">14:00 – 15:30</div>
-    <div class="tl-title">Consortium meeting</div>
+    <div class="tl-title">All consortium members</div>
     <div class="tl-desc">
       &#8226; Initial budgets<br>
       &#8226; Final divisions of labor
@@ -53,7 +42,7 @@ title: meetings
   <div class="tl-item">
     <div class="tl-date">September 8</div>
     <div class="tl-time">14:00 – 15:30</div>
-    <div class="tl-title">Consortium meeting</div>
+    <div class="tl-title">All consortium members</div>
     <div class="tl-desc">
       &#8226; Final budget
       &#8226; Last minute discussions
