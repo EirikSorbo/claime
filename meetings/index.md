@@ -18,7 +18,7 @@ title: WP deadlines
     <div class="tl-date">JUNE 16 </div>
     <div class="tl-title">Draft for WPs finished</div>
     <div class="tl-desc">
-      A first draft of the complete WP description, including: 
+      A first draft of the complete WP description, including: <br>
       &#8226; Objectives<br>
       &#8226; Tasks
     </div>
