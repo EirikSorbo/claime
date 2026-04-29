@@ -1,8 +1,8 @@
 ---
 layout: default
-title: deadlines
+title: WP deadlines
 ---
-## Deadlines
+## WP Deadlines
 <div class="tl-wrap">
 
   <div class="tl-item">
