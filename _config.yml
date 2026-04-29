@@ -7,10 +7,10 @@ baseurl: "/claime"
 nav:
   - label: meetings
     url: /
-  - label: deadlines
-    url: /meetings/
-  - label: tasks
-    url: /tasks/
+  - label: WP deadlines
+    url: /wp_deadlines/
+  - label: general deadlines
+    url: /deadlines/
 
 
 markdown: kramdown
