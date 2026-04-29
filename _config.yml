@@ -1,16 +1,16 @@
-title: RECLAIME 2026
+title: RECLAIME 2026 Timelines
 description: Horizon Heritage-04
 lang: en
 
 baseurl: "/claime"
 
 nav:
-  - label: meetings
+  - label: Meetings
     url: /
-  - label: deadlines
-    url: /meetings/
-  - label: tasks
-    url: /tasks/
+  - label: WPs
+    url: /wps/
+  - label: Budget
+    url: /budget/
 
 
 markdown: kramdown

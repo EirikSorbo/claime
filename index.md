@@ -44,7 +44,7 @@ title: meetings
     <div class="tl-time">14:00 – 15:30</div>
     <div class="tl-title">All consortium members</div>
     <div class="tl-desc">
-      &#8226; Final budget
+      &#8226; Final budget <br>
       &#8226; Last minute discussions
     </div>
   </div>
