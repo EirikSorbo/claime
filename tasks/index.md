@@ -1,12 +1,5 @@
 ---
 layout: default
-title: tasks
+title: deadlines
 ---
-
-# Tasks
-
-## WP leaders
-- Develop the WP descriptions
-
-## Institution admin
-- Provide necessary formalities
+## General deadlines
