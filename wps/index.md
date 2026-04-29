@@ -2,7 +2,7 @@
 layout: default
 title: WP deadlines
 ---
-## WP Deadlines
+## WP Develolpment timeline
 <div class="tl-wrap">
 
   <div class="tl-item">

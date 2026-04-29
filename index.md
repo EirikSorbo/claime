@@ -2,7 +2,7 @@
 layout: default
 title: meetings
 ---
-## Meetings
+## Meetings timeline
 <div class="tl-wrap">
 
   <div class="tl-item">

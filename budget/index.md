@@ -2,7 +2,7 @@
 layout: default
 title: budget
 ---
-## Budget Deadlines
+## Budget Timeline
 <div class="tl-wrap">
 
   <div class="tl-item">
