@@ -2,9 +2,34 @@
 layout: default
 title: meetings
 ---
+## Deadlines
+<div class="tl-wrap">
 
-## Consortium meetings
-- May 28, 14.30-16.00: Consortium meeting #01
-- June 17, 14.00-15.30: Consortium meeting #02
-- August 25, 14.00-15.30: Consortium meeting #03
-- September 8, 14.00 - 15.30: Consortium meeting #04
+  <div class="tl-item">
+    <div class="tl-date">June 1 (3 days prior to WP meetings)</div>
+    <div class="tl-title">Plan for WP development</div>
+    <div class="tl-desc">
+      A plan for how the WP will be developed to meet: <br>
+      &#8226; The new call<br>
+      &#8226; The feedback report </div>
+  </div>
+
+  <div class="tl-item">
+    <div class="tl-date">June 1 (3 days prior to WP meetings)</div>
+    <div class="tl-title">Plan for WP development</div>
+    <div class="tl-desc">
+      A plan for how the WP will be developed to meet: <br>
+      &#8226; The new call<br>
+      &#8226; The feedback report </div>
+  </div>
+
+   <div class="tl-item">
+    <div class="tl-date">June 1 (3 days prior to WP meetings)</div>
+    <div class="tl-title">Plan for WP development</div>
+    <div class="tl-desc">
+      A plan for how the WP will be developed to meet: <br>
+      &#8226; The new call<br>
+      &#8226; The feedback report </div>
+  </div>
+
+</div>
