@@ -21,9 +21,9 @@ title: home
     <div class="tl-time">14:30 – 15:30</div>
     <div class="tl-title">All Consortium members</div>
     <div class="tl-desc">
-      General info. <br>
-      Setting WP leaders.<br>
-      Division of writing. </div>
+      &#8226; General info <br>
+      &#8226; Setting WP leaders<br>
+      &#8226; Division of writing </div>
   </div>
 
   <div class="tl-item individual">
