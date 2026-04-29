@@ -6,8 +6,8 @@ title: meetings
 <div class="tl-wrap">
 
   <div class="tl-item">
-    <div class="tl-date">May 28</div>
-    <div class="tl-time">14:30 – 15:30</div>
+    <div class="tl-date">June 1</div>
+    <div class="tl-time">10.00 – 11:00</div>
     <div class="tl-title">All Consortium members</div>
     <div class="tl-desc">
       &#8226; General info <br>
