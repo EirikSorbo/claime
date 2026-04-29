@@ -1,15 +1,15 @@
-title: Horizon 2026
-description: Heritage-04
+title: RECLAIME 2026
+description: Horizon Heritage-04
 lang: en
 
 baseurl: "/claime"
 
 nav:
-  - label: home
+  - label: meetings
     url: /
   - label: tasks
     url: /tasks/
-  - label: meetings
+  - label: deadlines
     url: /meetings/
 
 markdown: kramdown
