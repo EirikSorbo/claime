@@ -218,23 +218,25 @@
     }
     
     /* TIMELINE */
-    .timeline {
+    .tl-wrap {
       position: relative;
-      margin: 24px 0;
-      padding-left: 24px;
+      padding-left: 28px;
       border-left: 2px solid var(--edge);
+      margin: 8px 0 0 0;
     }
     
     .tl-item {
       position: relative;
-      margin-bottom: 28px;
+      margin-bottom: 24px;
     }
+    
+    .tl-item:last-child { margin-bottom: 0; }
     
     .tl-item::before {
       content: '';
       position: absolute;
-      left: -31px;
-      top: 4px;
+      left: -35px;
+      top: 5px;
       width: 10px;
       height: 10px;
       border-radius: 50%;
@@ -242,14 +244,23 @@
       border: 2px solid var(--accent);
     }
     
-    .tl-year {
+    .tl-item.individual::before { border-color: var(--red); }
+    
+    .tl-date {
       display: block;
-      font-size: 9px;
+      font-size: 11px;
       font-weight: 600;
-      letter-spacing: 0.14em;
+      letter-spacing: 0.1em;
       text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 3px;
+    }
+    
+    .tl-time {
+      display: block;
+      font-size: 11px;
       color: var(--muted2);
-      margin-bottom: 4px;
+      margin-bottom: 5px;
     }
     
     .tl-title {
@@ -260,11 +271,33 @@
       margin-bottom: 4px;
     }
     
-    .tl-text {
+    .tl-desc {
       display: block;
-      font-size: 13px;
+      font-size: 12px;
       line-height: 1.75;
       color: var(--ink2);
+    }
+    
+    .tl-legend {
+      display: flex;
+      gap: 20px;
+      margin-bottom: 24px;
+    }
+    
+    .tl-leg {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 11px;
+      color: var(--muted);
+    }
+    
+    .tl-leg-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      border: 2px solid;
+      background: var(--paper);
     }
   </style>
 </head>
