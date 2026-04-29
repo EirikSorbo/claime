@@ -1,9 +1,9 @@
 ---
 layout: default
-title: home
+title: meetings
 ---
 
-# Timeline
+## Meetings timeline
 
 <div class="tl-legend">
   <div class="tl-leg">
@@ -30,28 +30,34 @@ title: home
     <div class="tl-date">June 4</div>
     <div class="tl-time">Individual time will be scheduled</div>
     <div class="tl-title">WP leaders</div>
-    <div class="tl-desc">Planning WP progress</div>
+    <div class="tl-desc">&#8226; Planning WP develpment progress</div>
   </div>
 
   <div class="tl-item individual">
     <div class="tl-date">June 5</div>
     <div class="tl-time">Individual time will be scheduled</div>
     <div class="tl-title">WP leaders</div>
-    <div class="tl-desc">Planning WP progress</div>
+    <div class="tl-desc">&#8226; Planning WP development progress</div>
   </div>
 
   <div class="tl-item">
     <div class="tl-date">August 25</div>
     <div class="tl-time">14:00 – 15:30</div>
     <div class="tl-title">Consortium meeting</div>
-    <div class="tl-desc">Initial budgets</div>
+    <div class="tl-desc">
+      &#8226; Initial budgets<br>
+      &#8226; Final divisions of labor
+    </div>
   </div>
 
   <div class="tl-item">
     <div class="tl-date">September 8</div>
     <div class="tl-time">14:00 – 15:30</div>
     <div class="tl-title">Consortium meeting</div>
-    <div class="tl-desc">Final touch</div>
+    <div class="tl-desc">
+      &#8226; Final budget
+      &#8226; Last minute discussions
+    </div>
   </div>
 
 </div>
