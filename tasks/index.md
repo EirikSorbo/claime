@@ -2,7 +2,10 @@
 layout: default
 title: budget
 ---
-## Budget Timeline
+## Tasks
+- [ ] Make WP development plans
+- [x] Done
+
 <div class="tl-wrap">
 
   <div class="tl-item">
