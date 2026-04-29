@@ -7,10 +7,11 @@ baseurl: "/claime"
 nav:
   - label: meetings
     url: /
-  - label: tasks
-    url: /tasks/
   - label: deadlines
     url: /meetings/
+  - label: tasks
+    url: /tasks/
+
 
 markdown: kramdown
 theme: null
