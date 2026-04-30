@@ -9,4 +9,7 @@ title: budget
 - [ ] Deliver first draft
 - [ ] Deliver final text
 
+
 ## Administrative Tasks
+- [ ] Return completed form with Parnter Info (template will be distributed)
+- [ ] Provide neccesary CVs
